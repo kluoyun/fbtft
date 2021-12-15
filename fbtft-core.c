@@ -39,6 +39,7 @@
 #include <linux/dma-mapping.h>
 #include <linux/of.h>
 #include <linux/of_gpio.h>
+#include <linux/ktime.h>
 
 #include "fbtft.h"
 
